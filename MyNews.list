@@ -1,0 +1,46 @@
+# NAME: MyNews
+# AUTHOR: inanepolo
+# REPO: https://github.com/inanepolo/QuantumultX/blob/main/rule/MyNews.list
+# UPDATED: 2025-06-21 09:16:55
+
+HOST-SUFFIX,ptt.cc,MyNews
+HOST-SUFFIX,mobile01.com,MyNews
+HOST-SUFFIX,udn.com,MyNews
+HOST-SUFFIX,tvbs.com.tw,MyNews
+HOST-SUFFIX,setn.com,MyNews
+HOST-SUFFIX,ltn.com.tw,MyNews
+HOST-SUFFIX,rti.org.tw,MyNews
+HOST-SUFFIX,haixia-info.com,MyNews
+HOST-SUFFIX,7-11.com.tw,MyNews
+HOST-SUFFIX,thsrc.com.tw,MyNews
+HOST-SUFFIX,npm.gov.tw,MyNews
+HOST-SUFFIX,6park.com,MyNews
+HOST-SUFFIX,apnews.com,MyNews
+HOST-SUFFIX,reuters.com,MyNews
+HOST-SUFFIX,afp.com,MyNews
+HOST-SUFFIX,cna.com.tw,MyNews
+HOST-SUFFIX,nytimes.com,MyNews
+HOST-SUFFIX,cnn.com,MyNews
+HOST-SUFFIX,bbc.com,MyNews
+HOST-SUFFIX,wsj.com,MyNews
+HOST-SUFFIX,nikkei.com,MyNews
+HOST-SUFFIX,scmp.com,MyNews
+HOST-SUFFIX,zaobao.com.sg,MyNews
+HOST-SUFFIX,abc.net.au,MyNews
+HOST-SUFFIX,edu.tw,MyNews
+HOST-SUFFIX,pornhub.com,MyNews
+HOST-SUFFIX,redgifs.com,MyNews
+HOST-SUFFIX,limbopro.com,MyNews
+HOST-SUFFIX,jable.tv,MyNews
+HOST-SUFFIX,missav.ws,MyNews
+HOST-SUFFIX,supjav.com,MyNews
+HOST-SUFFIX,njav.tv,MyNews
+HOST-SUFFIX,javday.tv,MyNews
+HOST-SUFFIX,javhd.today,MyNews
+HOST-SUFFIX,av01.tv,MyNews
+HOST-SUFFIX,javfinder.sb,MyNews
+HOST-SUFFIX,netflav.com,MyNews
+HOST-SUFFIX,hpjav.tv,MyNews
+HOST-SUFFIX,avple.tv,MyNews
+HOST-SUFFIX,taiav.com,MyNews
+HOST-SUFFIX,netflav.com,MyNews
