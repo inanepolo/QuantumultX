@@ -5,6 +5,7 @@
 
 HOST,raw.githubusercontent.com,MyNews
 HOST,github.com,MyNews
+HOST-SUFFIX,ettoday.net,MyNews
 HOST-SUFFIX,ptt.cc,MyNews
 HOST-SUFFIX,mobile01.com,MyNews
 HOST-SUFFIX,udn.com,MyNews
