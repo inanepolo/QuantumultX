@@ -1,0 +1,16 @@
+HOST-SUFFIX,pornhub.com,MyNews
+HOST-SUFFIX,redgifs.com,MyNews
+HOST-SUFFIX,limbopro.com,MyNews
+HOST-SUFFIX,jable.tv,MyNews
+HOST-SUFFIX,missav.ws,MyNews
+HOST-SUFFIX,supjav.com,MyNews
+HOST-SUFFIX,njav.tv,MyNews
+HOST-SUFFIX,javday.tv,MyNews
+HOST-SUFFIX,javhd.today,MyNews
+HOST-SUFFIX,av01.tv,MyNews
+HOST-SUFFIX,javfinder.sb,MyNews
+HOST-SUFFIX,netflav.com,MyNews
+HOST-SUFFIX,hpjav.tv,MyNews
+HOST-SUFFIX,avple.tv,MyNews
+HOST-SUFFIX,taiav.com,MyNews
+HOST-SUFFIX,netflav.com,MyNews
