@@ -3,8 +3,8 @@
 # REPO: https://raw.githubusercontent.com/inanepolo/QuantumultX/refs/heads/main/MyNews.list
 # UPDATED: 2025-06-21 09:16:55
 
-HOST,raw.githubusercontent.com,MyNews
-HOST,github.com,MyNews
+HOST-SUFFIX,githubusercontent.com,MyNews
+HOST-SUFFIX,github.com,MyNews
 HOST-SUFFIX,ettoday.net,MyNews
 HOST-SUFFIX,ptt.cc,MyNews
 HOST-SUFFIX,mobile01.com,MyNews
