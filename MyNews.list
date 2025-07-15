@@ -6,6 +6,7 @@
 HOST-SUFFIX,githubusercontent.com,MyNews
 HOST-SUFFIX,github.com,MyNews
 HOST-SUFFIX,github.io,MyNews
+HOST-SUFFIX,fmhy.net,MyNews
 HOST-SUFFIX,greasyfork.org,MyNews
 HOST-SUFFIX,ettoday.net,MyNews
 HOST-SUFFIX,ptt.cc,MyNews
@@ -17,8 +18,10 @@ HOST-SUFFIX,setn.com,MyNews
 HOST-SUFFIX,ltn.com.tw,MyNews
 HOST-SUFFIX,rti.org.tw,MyNews
 HOST-SUFFIX,news98.com.tw,MyNews
+HOST-SUFFIX,wenxuecity.com,MyNews
 HOST-SUFFIX,haixia-info.com,MyNews
 HOST-SUFFIX,imgur.com,MyNews
+HOST-SUFFIX,postimg.cc,MyNews
 HOST-SUFFIX,meee.com.tw,MyNews
 HOST-SUFFIX,imgus.cc,MyNews
 HOST-SUFFIX,lurl.cc,MyNews
