@@ -166,9 +166,9 @@ http://118.89.87.74:88/phenix.php?id=fhzw
 http://118.89.87.74:88/phenix.php?id=fhhk
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" http-user-agent="AptvPlayer-UA" group-title="港台",香港卫视
 http://118.89.87.74:88/live.php?id=香港卫视
-#EXTINF:-1 tvg-id="TVBSAsia.tw" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="港台",TVBS Asia (1080p)
+#EXTINF:-1 tvg-id="TVBSAsia.tw" tvg-name="TVBS Asia (1080p)" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="港台",TVBS Asia (1080p)
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 tvg-id="BeautifulLifeTV.tw",group-title="港台",Beautiful Life TV
+#EXTINF:-1 tvg-id="BeautifulLifeTV.tw" vg-name="Beautiful Life TV" group-title="港台",Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 
 #EXTINF:-1, group-title="港台", TVBS HD[geo-blocked]
