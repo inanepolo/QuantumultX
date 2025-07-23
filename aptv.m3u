@@ -171,11 +171,11 @@ http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-id="BeautifulLifeTV.tw" vg-name="Beautiful Life TV" group-title="港台",Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 
-#EXTINF:-1, group-title="港台", TVBS HD[geo-blocked]
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/inanepolo/QuantumultX/refs/heads/main/logo_tvbs.png" group-title="港台", TVBS HD[geo-blocked]
 https://stream1.freetv.fun/tvbs-9.m3u8
-#EXTINF:-1, group-title="港台", TVBS HD[geo-blocked]
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/inanepolo/QuantumultX/refs/heads/main/logo_tvbs.png" group-title="港台", TVBS HD[geo-blocked]
 https://stream1.freetv.fun/tvbs--wj-1.ctv
-#EXTINF:-1, group-title="港台", TVBS HD[geo-blocked]
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/inanepolo/QuantumultX/refs/heads/main/logo_tvbs.png" group-title="港台", TVBS HD[geo-blocked]
 https://stream1.freetv.fun/tvbs-8.ctv
 
 #EXTINF:-1 tvg-name="春晚" group-title="历年春晚",春晚1983
