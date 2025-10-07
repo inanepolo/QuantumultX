@@ -1,0 +1,17 @@
+数据源
+https://qist.ugigc.dpdns.org/xiaosa/api.json
+
+接口 1 - 自用省心
+https://tvbox.catvod.com/catvod.json
+
+接口 2 - PG
+https://tvbox.catvod.com/jsm.json
+
+接口 3 - 真心
+https://tvbox.catvod.com/FongMi.json
+
+接口 4 - 潇洒
+https://tvbox.catvod.com/xs/api.json
+
+直播源
+http://192.168.1.232/aptv.m3u
