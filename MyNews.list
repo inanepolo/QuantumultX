@@ -1,11 +1,8 @@
 # NAME: MyNews
 # AUTHOR: inanepolo
 # REPO: https://raw.githubusercontent.com/inanepolo/QuantumultX/refs/heads/main/MyNews.list
-# UPDATED: 2025-06-21 09:16:55
+# UPDATED: 2025-10-13 09:16:55
 
-HOST-SUFFIX,githubusercontent.com,MyNews
-HOST-SUFFIX,github.com,MyNews
-HOST-SUFFIX,github.io,MyNews
 HOST-SUFFIX,fmhy.net,MyNews
 HOST-SUFFIX,greasyfork.org,MyNews
 HOST-SUFFIX,ettoday.net,MyNews
